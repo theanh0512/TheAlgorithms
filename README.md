@@ -9,7 +9,7 @@
  - Please don't raise a PR for solutions to problems from online judges such as Hackerrank, Leetcode, etc.
 
 ## Steps to raise a PR
-- Fork the [Kotlin Repo](https://github.com/TheAlgorithms/Kotlin)
+- Fork the [Kotlin Repo](https://github.com/theanh0512/TheAlgorithms)
 - Open the forked repo on your local machine through IntelliJ by importing the project as a Gradle project
 - Make the changes on your local machine
 - Push the changes to the forked repository
